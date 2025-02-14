@@ -10,7 +10,7 @@ Before starting this project I researched a varity of programs such as [SDL](htt
 
 ## Installation
 
-Currently working on! Ran into some trouble creating a release package. 
+ Unfortunately I could not figure out how to export this appication from Qt so there is no simple way to play, apologies. If you're reading this and you know how to export apps from Qt as a simple executable then I would love to hear it! 
 
 ## Usage
 
